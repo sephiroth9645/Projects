@@ -1,0 +1,8 @@
+totalSales = Input('What are the total sales for the month?')
+
+stateSalesTax = totalSales * 0.4
+countySalesTax = totalSales * 0.2
+
+totalTax = 0.2 + 0.4
+
+Print ('The state tax is: ', stateSalesTax, '. The county tax is: ', countySalesTax, '. combined tax is: ', totalTax, '.'

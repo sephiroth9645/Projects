@@ -1,0 +1,4 @@
+Allow the user to input the monthly sales
+Check to see if the sales are greater than monthly goal
+If the sales are equal to 90000 then employees get the day off
+If the sales are greater than 100000 the store get a 5000 dollar bonus.

@@ -1,0 +1,20 @@
+Def Main()
+   Print ("Hello welcome to store bonus")
+   print
+
+Def Input()
+   bonus = Input("How many sales did the store make this month?")
+   return bonus
+
+Def CompanyBonus(input)
+   IF(bonus >= 100000)
+      comp = bonus + 5000
+      return comp
+
+Def DayOff(input)
+   determine = input * 1.25
+
+   IF(bonus >= determine)
+      comp = bonus + 5000
+      print "All employees get a day off"
+   

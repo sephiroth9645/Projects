@@ -1,0 +1,17 @@
+Michael Castro
+Pseudo Code
+Print Name
+
+Public Class Main
+{
+    Public void main(String args)
+    {
+        print("Michael Castro");
+
+        String name = "Michael Castro";
+
+        printf("s%", &name);
+
+        println(name);
+    }
+}

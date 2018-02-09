@@ -1,0 +1,28 @@
+Def Main()
+   Print 'Welcome to the meal calculator program'
+   Print
+   inputMeal()
+   printTotal(ticket, tip, tax, total)
+Def inputMeal():
+   ticket = Input('What is the price of the meal?')
+   return ticket
+
+Def calcTip(ticket):
+   tip = ticket * .2
+   return tip
+
+Def calcTax(ticket):
+   tax = ticket * . 006
+   return tax
+
+Def calcTotal(tip, tax, ticket)
+   total = tip + tax + ticket
+   return total
+
+Def printTotal(ticket, tip, tax, total)
+   Print 'The meal price is: $', ticket
+   print 'The tip is: $', tip
+   print 'The tax is: $', tax
+   print 'The total is: $;, total
+
+Main()

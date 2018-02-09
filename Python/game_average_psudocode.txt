@@ -1,0 +1,10 @@
+Psuedocode
+yearOne = Raw_Input("How many wins in year 1?")
+yearTwo = Raw_Input("How many wins in year 2?")
+yearThree = Raw_Input("How many wins in year 3?")
+yearFour = Raw_Input("How many wins in year 4?")
+yearFive = Raw_Input("How many wins in year 5?")
+
+Average = (yearOne, yearTwo, yearThree, yearFour, yearFive) / 5
+
+Print("The total average is: ", Average)

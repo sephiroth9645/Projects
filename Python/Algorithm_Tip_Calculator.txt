@@ -1,0 +1,8 @@
+Display Welcome to tip calculator
+Ask the user to input their meal price.
+
+Calculate the .2 percent tip, and the tax.
+
+Calculate the tip and tax
+
+then the total for the meal.

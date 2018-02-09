@@ -1,0 +1,5 @@
+Alogorithm
+Allow the college to enter the wins during a five year period.
+Make 5 variables: Enter for year 1...
+After the user has entered the information
+divide the scores from the years, and display the average to the user.

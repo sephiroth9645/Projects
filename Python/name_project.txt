@@ -1,0 +1,11 @@
+Michael Castro
+Algorithm
+print name
+
+Print out my name in 3 different ways.
+
+first being with print
+
+second being with printf (try to use String)
+
+third use the println.

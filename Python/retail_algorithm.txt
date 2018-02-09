@@ -1,0 +1,6 @@
+Algorithm
+Get the total sales tax for each month
+multiplly the total sales by .04 to calculate the stae sales tax.
+multiply the total sales by .02 to calculate the county sales tax.
+Add the state tax and county tax to calculate the total sales tax
+Dislplay the calculated county tax, state tax, and total sales tax.

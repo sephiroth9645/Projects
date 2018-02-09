@@ -1,0 +1,16 @@
+Pseudocode
+Display "What is your name?"
+Input studentName
+
+Display "What is your degree?"
+Input studentDegree
+
+Display "How many more credits do you have to take?"
+Input studentCredits
+
+Display "How many credits are their for your degree?"
+Input degreeCredits
+
+Integer totalToComplete = degreeCredits - studentCredits
+
+Display studentName + " is in the " + studentDegree + " and has " + totalComplete + "left to finish."

@@ -1,0 +1,34 @@
+Michael Castro
+PsuedoCode
+Gas Milage
+
+import scanner;
+
+main
+{
+   public void main(String args)
+   {
+      Scanner input = new Scanner(System.in);
+
+      Double gasMilage;
+      Double tank;
+      Double calculateGas;
+      Double calculateMiles;
+
+      print("How many gallons is your tank?\n");
+      
+      gasMilage = (CDbl) input.nextDouble();
+
+      print("How far are you planning to travle?");
+
+      tank = (CDbl) input.nextDouble();
+
+      calculateGas = (gasMilage + tank) / gasMilage;
+
+      calculateMiles = gasMilage / tank;
+
+      print("Your gas milage is: " + calculateGas);
+
+      print("The number you had to fill up is: " + calculateMiles);
+   }
+]

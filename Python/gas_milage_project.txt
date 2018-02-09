@@ -1,0 +1,12 @@
+Michael Castro
+Algorithm
+Gas Milage
+
+Ask the user how much gas they can have for a single tank of gas.
+
+Ask the user to enter how far they are planning to travle.
+
+Calculate How many times they will need to stop to fill up the tank,
+and how much gas they use per gallon.
+
+Display the results.

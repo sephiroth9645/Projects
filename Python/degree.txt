@@ -1,0 +1,14 @@
+Algorithm
+Display What is your name?
+Allow the user to input their name.
+
+Display what is the name of your degree?
+Allow the user to input their degree.
+
+Display How many credits have you taken so far?
+Allow the user to input their credits.
+
+Display How many credits are their in your degree?
+Allow the user to input their credits.
+
+Display name, degree, creditsLeft 
